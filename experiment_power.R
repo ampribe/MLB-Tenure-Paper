@@ -66,3 +66,6 @@ while (abs(power - 0.8) > 0.01) {
   grid = size * multipliers
 }
 
+size
+
+power
